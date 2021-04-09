@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\BT02_102190248_PhamSiViet\BT02_102190248_PhamSiViet\obj\Debug\BT02_102190248_PhamSiViet.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\BT02_102190248_PhamSiViet\BT02_102190248_PhamSiViet\obj\Debug\BT02_102190248_PhamSiViet.Form1.resources
+C:\Users\USER\source\repos\BT02_102190248_PhamSiViet\BT02_102190248_PhamSiViet\obj\Debug\BT02_102190248_PhamSiViet.Form2.resources
+C:\Users\USER\source\repos\BT02_102190248_PhamSiViet\BT02_102190248_PhamSiViet\obj\Debug\BT02_102190248_PhamSiViet.Properties.Resources.resources
+C:\Users\USER\source\repos\BT02_102190248_PhamSiViet\BT02_102190248_PhamSiViet\obj\Debug\BT02_102190248_PhamSiViet.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\BT02_102190248_PhamSiViet\BT02_102190248_PhamSiViet\obj\Debug\BT02_102190248_PhamSiViet.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BT02_102190248_PhamSiViet\BT02_102190248_PhamSiViet\bin\Debug\BT02_102190248_PhamSiViet.exe.config
+C:\Users\USER\source\repos\BT02_102190248_PhamSiViet\BT02_102190248_PhamSiViet\bin\Debug\BT02_102190248_PhamSiViet.exe
+C:\Users\USER\source\repos\BT02_102190248_PhamSiViet\BT02_102190248_PhamSiViet\bin\Debug\BT02_102190248_PhamSiViet.pdb
+C:\Users\USER\source\repos\BT02_102190248_PhamSiViet\BT02_102190248_PhamSiViet\obj\Debug\BT02_102190248_PhamSiViet.exe
+C:\Users\USER\source\repos\BT02_102190248_PhamSiViet\BT02_102190248_PhamSiViet\obj\Debug\BT02_102190248_PhamSiViet.pdb
